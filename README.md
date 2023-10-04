@@ -1,6 +1,6 @@
 <html>
 <head>
-  <title>Проекты</title>
+  Проекты
 </head>
 <body>
   <table>
