@@ -13,8 +13,7 @@
     </tr>
     <tr>
       <td>Анализ пользовательского поведения в мобильном приложении</td>
-      
-<span style="color:red;">A/B-тестирование</span>
+        <td><span style="color:red;">A/B-тестирование</span>
 <span style="color:green;">Python</span>
 <span style="color:blue;">Pandas</span>
 <span style="color:orange;">Matplotlib</span>
@@ -23,10 +22,7 @@
 <span style="color:pink;">продуктовые метрики</span>
 <span style="color:gray;">Plotly</span>
 <span style="color:teal;">проверка статистических гипотез</span>
-<span style="color:black;">визуализация данных</span>
-</tr>
-</table></td>
-      <td></td>
+<span style="color:black;">визуализация данных</span></td>
       <td></td>
       <td></td>  
     </tr>
