@@ -13,23 +13,17 @@
     </tr>
     <tr>
       <td>Анализ пользовательского поведения в мобильном приложении</td>
-      <td><tr>
-<td><span style="color:red;">A/B-тестирование</span></td>
-<td><span style="color:green;">Python</span></td>
-<td><span style="color:blue;">Pandas</span></td>
-</tr>
-<tr>
-<td><span style="color:orange;">Matplotlib</span></td>
-<td><span style="color:purple;">Seaborn</span></td>
-<td><span style="color:brown;">событийная аналитика</span></td>
-</tr>
-<tr>
-<td><span style="color:pink;">продуктовые метрики</span></td>
-<td><span style="color:gray;">Plotly</span></td>
-<td><span style="color:teal;">проверка статистических гипотез</span></td>
-</tr>
-<tr>
-<td colspan="3"><span style="color:black;">визуализация данных</span></td>
+      
+<span style="color:red;">A/B-тестирование</span>
+<span style="color:green;">Python</span>
+<span style="color:blue;">Pandas</span>
+<span style="color:orange;">Matplotlib</span>
+<span style="color:purple;">Seaborn</span>
+<span style="color:brown;">событийная аналитика</span>
+<span style="color:pink;">продуктовые метрики</span>
+<span style="color:gray;">Plotly</span>
+<span style="color:teal;">проверка статистических гипотез</span>
+<span style="color:black;">визуализация данных</span>
 </tr>
 </table></td>
       <td></td>
