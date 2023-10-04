@@ -1,6 +1,6 @@
 <html>
 <head>
-  <title>Пустая таблица HTML</title>
+  <title>Проекты</title>
 </head>
 <body>
   <table>
