@@ -1,6 +1,6 @@
 # Анализ пользователей в мобильном приложении
 
-[HTML](https://github.com/aq2003/Portfolio/blob/main/Gold%20Recovery/P9_Portfolio.html)     [ipynb](https://github.com/aq2003/Portfolio/blob/main/Gold%20Recovery/P9_Portfolio.ipynb)
+[ipynb](https://clck.ru/3629kD)
 
 ## Описание проекта
 
